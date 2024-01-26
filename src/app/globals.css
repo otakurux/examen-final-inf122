@@ -1,9 +1,15 @@
 :root {
   --white: #fff;
   --black: #000;
+  --blue: #26367C;
+  --black-whitw: #393939;
 
+  --mss: 12px;
+  --ms: 14px;
+  --md: 22px;
+  --mg: 32px;
 
-
+/* 
   --max-width: 1100px;
   --border-radius: 12px;
   --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
@@ -38,9 +44,9 @@
   --callout-rgb: 238, 240, 241;
   --callout-border-rgb: 172, 175, 176;
   --card-rgb: 180, 185, 188;
-  --card-border-rgb: 131, 134, 135;
+  --card-border-rgb: 131, 134, 135; */
 }
-
+/* 
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
@@ -105,4 +111,4 @@ a {
   html {
     color-scheme: dark;
   }
-}
+} */
