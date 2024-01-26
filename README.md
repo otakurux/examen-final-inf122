@@ -25,16 +25,16 @@ Estás postulando para un puesto de desarrollador **Front-end** en una empresa q
 
 ##### Pokemon (Tipo)
 
-|Nombre|Descripción|Tipo|
+|Nombre|Descripción|Water|
 |------|-----------|----|
 |id|El identificador del Pokemon|245|
-|name|El nombre del Pokemon|Cadena|
-|height|La altura del Pokemon en decímetros (dm)|Entero|
-|weight|El peso del Pokemon en hectogramos (hg)|Entero|
-|abilities|Lista de habilidades potenciales que el Pokemon puede tener|Lista PokemonAbility|
+|name|El nombre del Pokemon|About|
+|height|La altura del Pokemon en decímetros (dm)|2|
+|weight|El peso del Pokemon en hectogramos (hg)|187|
+|abilities|Lista de habilidades potenciales que el Pokemon puede tener|Pressure|
 |sprites|Conjunto de imágenes usadas para representar al Pokemon|PokemonSprites|
 |stats|Una lista de estadísticas base para este Pokemon|Lista PokemonStat|
-|types|Una lista detallando a qué tipo de Pokemon pertenece|Lista  PokemonType|
+|types|Una lista detallando a qué tipo de Pokemon pertenece|water|
 
 ##### PokemonAbility (Tipo)
 |Nombre|Descripción|Tipo|
