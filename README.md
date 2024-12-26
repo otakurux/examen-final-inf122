@@ -2,7 +2,7 @@
 ## Programación Web II
 
 ### Deployment
-![vercel](https://examen-final-inf122-q60qc81om-otakuruxs-projects.vercel.app/)
+[vercel ](https://examen-final-inf122-q60qc81om-otakuruxs-projects.vercel.app)
 
 ### Antes de Empezar:
 
