@@ -17,7 +17,7 @@
     font-size: var(--mg);
 }
 
-.containerPrimari {
+.containerPrimary {
     margin: 20px;
     display: flex;
     align-items: center;
@@ -27,7 +27,8 @@
 .infoContainer {
     border-radius: 40px 40px 0px 0px;
     margin: 20px;
-    /* justify-content: center; */
+    display: flex;
+    flex-direction: column;
 }
 
 .text {
@@ -47,7 +48,7 @@
     grid-template-columns: 1fr;
 }
 
-.divicion {
+.division {
     display: grid;
     grid-template-columns: 1fr 3fr;
 }
